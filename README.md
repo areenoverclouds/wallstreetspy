@@ -1,4 +1,6 @@
-## [Wall Street Spy](https://wallstreetspy.herokuapp.com/)
+## Wall Street Spy
+
+Click [me](https://wallstreetspy.herokuapp.com/).
 
 An e-commerce website "Le Cafe Vintage" with hidden traps and rickrolls.
 
